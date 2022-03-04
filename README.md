@@ -1,7 +1,6 @@
 # Detecting-malicious-URLs-using-different-ML-models
 
-
-Analysis of the FIFA World Cup 2018 data in order to find which factors (variables) influence a country to be closer to the first place. 
+End-to-end Machine Learning Problem to detect malicious URLs using different ML models. Submitted 4th March 2022 for Predictive Analytics course.
 
 ## Datasets used:
 
