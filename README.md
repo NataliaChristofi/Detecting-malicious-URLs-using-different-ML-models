@@ -5,6 +5,7 @@ End-to-end Machine Learning Problem to detect malicious URLs using different ML 
 ## Datasets used:
 
 **Malicious URLs dataset** provided on Kaggle at https://www.kaggle.com/sid321axn/malicious-urls-dataset
+Dataset is too big to upload on github so it will be required to download it from Kaggle.
 Dataset included only two columns: url and type so feature engineering was needed.
 
 *Acknowledgments*: Majority of work done in private jupyter notebook repo in Faculty platform provided by University College London.
